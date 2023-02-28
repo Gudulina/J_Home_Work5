@@ -1,7 +1,5 @@
 public class task5 {
 
-
-
 public static void main(String[] args) {
     var mg = new MapGenerator();
 
@@ -28,8 +26,7 @@ public static void main(String[] args) {
     //         new MapPrinter().rawData(
     //                 mg.getMap())
 
-    // );
-    
+    // );    
 }
 
 
@@ -148,7 +145,5 @@ static class MapPrinter {
         return sb.toString();
     }
 }
-
-
 
 }

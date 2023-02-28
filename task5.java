@@ -131,7 +131,7 @@ static class MapPrinter {
                         sb.append(" # ");
                         break;
                     case -2:
-                        sb.append("^^");
+                        sb.append("^.^");
                         break;
                     case -3:
                         sb.append(" = ");
